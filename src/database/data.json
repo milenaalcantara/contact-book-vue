@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "nome": "João Silva",
+      "telefone": "+55 11 91234-5678",
+      "email": "joao.silva@email.com"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "telefone": "+55 21 99876-5432",
+      "email": "maria.oliveira@email.com"
+    },
+    {
+      "nome": "Pedro Santos",
+      "telefone": "+55 31 98765-4321",
+      "email": "pedro.santos@email.com"
+    }
+  ]
+}
